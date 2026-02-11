@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Zo7yOzOpayUTZgWQlCrDg1muVGd4n8UVKWj2UPqUhvI=",
+  "Source": "OrderStatusTracker",
+  "BasePath": "_content/OrderStatusTracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
